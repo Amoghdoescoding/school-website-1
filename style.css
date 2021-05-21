@@ -1,0 +1,30 @@
+.menu {
+
+    font-family: monospace;
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    width: 100%;
+    text-align: center;
+    background-color:lightblue;
+    height: 40px;
+
+}
+
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 15px;
+    display: inline;
+    font-size: 20px;
+    font-family: monospace;
+    text-decoration-color: aliceblue;
+}
+
+.map{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
